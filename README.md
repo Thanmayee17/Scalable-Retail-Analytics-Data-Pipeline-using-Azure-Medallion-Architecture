@@ -1,0 +1,1 @@
+# Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture
