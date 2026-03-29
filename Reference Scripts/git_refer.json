@@ -1,0 +1,54 @@
+
+
+[
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Product_Categories.csv",
+        "e_sink_folder" : "AdventureWorks_Product_Categories",
+        "e_file_name" : "AdventureWorks_Product_Categories.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Customers.csv",
+        "e_sink_folder" : "AdventureWorks_Calendar",
+        "e_file_name" : "AdventureWorks_Calendar.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Calendar.csv",
+        "e_sink_folder" : "AdventureWorks_Customers",
+        "e_file_name" : "AdventureWorks_Customers.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "e_sink_folder" : "Product_Subcategories",
+        "e_file_name" : "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Products.csv",
+        "e_sink_folder" : "AdventureWorks_Products",
+        "e_file_name" : "AdventureWorks_Products.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Returns.csv",
+        "e_sink_folder" : "AdventureWorks_Returns",
+        "e_file_name":"AdventureWorks_Returns.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Sales_2015.csv",
+        "e_sink_folder" : "AdventureWorks_Sales_2015",
+        "e_file_name" : "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Sales_2016.csv",
+        "e_sink_folder" : "AdventureWorks_Sales_2016",
+        "e_file_name" : "AdventureWorks_Sales_2016.cvsv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Sales_2017.csv",
+        "e_sink_folder" : "AdventureWorks_Sales_2017",
+        "e_file_name" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "p_rel_url" : "Thanmayee17/Scalable-Retail-Analytics-Data-Pipeline-using-Azure-Medallion-Architecture/blob/main/Data/AdventureWorks_Territories.csv",
+        "e_sink_folder" : "AdventureWorks_Territories",
+        "e_file_name" : "AdventureWorks_Territories.csv"
+    }
+]
